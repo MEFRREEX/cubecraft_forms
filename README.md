@@ -25,7 +25,7 @@ Header buttons: ```header_button<button name>```
 Title ```is_dynamic&big_button&stack_text<title text>```  
 Big button: ```big_button<button name>```  
 Rect button: ```rect_button<button name>```  
-REQUIRED: 3 blank buttons (No text, no pictures)  
+**REQUIRED: 3 blank buttons (No text, no pictures)**  
 Button one: ```grid_tile<button name>```  
 Button two: ```grid_tile<button name>```  
 Header buttons: ```header_button<button name>```
