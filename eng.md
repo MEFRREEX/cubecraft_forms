@@ -47,7 +47,7 @@ Button two: ```grid_tile<button name>```
 ```§t§r``` - will make the rectangular button larger  
 ```§w§r``` - the button will change color to white  
 ```§g§r``` - the button will change color to gold  
-How to use: ```button_parameter<add_parameters[text]>```
+How to use: ```button_parameter<add_parameter[text]>```
 
 # Additional information
 You can use these examples to create your own custom forms as a constructor
