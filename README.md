@@ -24,8 +24,16 @@ Header buttons: ```header_button<button name>```
 ![image](https://user-images.githubusercontent.com/83061703/202972785-25ecf8d1-244a-4d98-9712-4430d29a5d07.png)
 Title ```is_dynamic&big_button&stack_text<title text>```  
 Big button: ```big_button<button name>```  
-Rect button: ```rect_button<button name>```  
+Rect button: ```rect_button<§t§rbutton name>```  
 **REQUIRED: 3 blank buttons (No text, no pictures)**  
 Button one: ```grid_tile<button name>```  
 Button two: ```grid_tile<button name>```  
 Header buttons: ```header_button<button name>```
+
+# Additional placeholders for buttons
+```§s§r``` - the text will be displayed only when hovering over the button
+```§t§r``` - will make the rectangular button larger
+```§w§r``` - the button will change color to white
+```§g§r``` - the button will change color to gold
+How to use: ```button_parameter<placeholder[text]>```
+
