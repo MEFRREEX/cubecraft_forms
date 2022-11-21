@@ -13,7 +13,7 @@ Header buttons: ```header_button<§s§r[button name]>```
 ![image](https://user-images.githubusercontent.com/83061703/202970775-5119837d-e7a3-408d-98c5-4c317bb5c952.png)
 Title: ```is_dynamic&small_grid&grid_text<title text>```  
 Rect buttons: ```rect_button<button name>```  
-Buttons: ```grid_tile<button name>```
+Buttons: ```grid_tile<button name>```  
 Header buttons: ```header_button<§s§r[button name]>```
 
 ![image](https://user-images.githubusercontent.com/83061703/202971792-a61ab216-ecb8-4f3e-8be0-fb90713ed039.png)
@@ -27,7 +27,7 @@ Header buttons: ```header_button<§s§r[button name]>```
 Title ```is_dynamic&big_button&stack_text<title text>```  
 Big button: ```big_button<button name>```  
 Rect button: ```rect_button<§t§rbutton name>```
-Header buttons: ```header_button<§s§r[button name]>```
+Header buttons: ```header_button<§s§r[button name]>```  
 **REQUIRED: 3 blank buttons (No text, no pictures)**
 **Here they act as spaces and line breaks.**
 **Depending on the number of buttons and the type of buttons, the number of empty buttons may vary.**
