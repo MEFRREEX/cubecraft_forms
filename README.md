@@ -31,9 +31,9 @@ Button two: ```grid_tile<button name>```
 Header buttons: ```header_button<button name>```
 
 # Additional placeholders for buttons
-```§s§r``` - the text will be displayed only when hovering over the button
-```§t§r``` - will make the rectangular button larger
-```§w§r``` - the button will change color to white
-```§g§r``` - the button will change color to gold
+```§s§r``` - the text will be displayed only when hovering over the button  
+```§t§r``` - will make the rectangular button larger  
+```§w§r``` - the button will change color to white  
+```§g§r``` - the button will change color to gold  
 How to use: ```button_parameter<placeholder[text]>```
 
