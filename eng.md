@@ -45,3 +45,5 @@ Button two: ```grid_tile<button name>```
 ```§g§r``` - the button will change color to gold  
 How to use: ```button_parameter<add_parameters[text]>```
 
+# Additional information
+You can use these examples to create your own custom forms as a constructor
