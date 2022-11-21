@@ -1,6 +1,7 @@
 # Forms documentation
 
-In the form itself, write the values without the triangular brackets, they are present here only to indicate that there should be text. **Example: if you use ```is_dynamic&side_text<title text>``` - write ```is_dynamic&side_textMenu``` and so on with other elements.**
+# TAKE NOTE
+In the form itself, write the values without the triangular and square brackets, they are present here only to indicate that there should be text and to separate it from the other for clarity. **Example: if you use ```is_dynamic&side_text<title text>``` - write ```is_dynamic&side_textMenu``` and so on with other elements.**
 #
 
 ![image](https://user-images.githubusercontent.com/83061703/202968771-69dcac6e-205f-4d0b-bd6f-38198fb78852.png)
