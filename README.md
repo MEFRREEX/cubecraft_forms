@@ -20,3 +20,10 @@ Title ```is_dynamic&big_button&stack_text<title text>```
 Big button: ```big_button<button name>```  
 Button: ```grid_tile<button name>```  
 Header buttons: ```header_button<button name>```
+
+![image](https://user-images.githubusercontent.com/83061703/202972785-25ecf8d1-244a-4d98-9712-4430d29a5d07.png)
+Title ```is_dynamic&big_button&stack_text<title text>```  
+Big button: ```big_button<button name>```  
+Rect button: ```rect_button<button name>```  
+Button one: ```grid_tile<button name>```  
+Button two: ```grid_tile<button name>```
