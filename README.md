@@ -22,14 +22,14 @@ Button: ```grid_tile<button name>```
 Header buttons: ```header_button<button name>```
 
 ![image](https://user-images.githubusercontent.com/83061703/202972785-25ecf8d1-244a-4d98-9712-4430d29a5d07.png)
-(In this form, the sequence of buttons matters)
+(In this form, the sequence of buttons matters)  
 Title ```is_dynamic&big_button&stack_text<title text>```  
 Big button: ```big_button<button name>```  
-Rect button: ```rect_button<§t§rbutton name>```
-Header buttons: ```header_button<button name>```
-**REQUIRED: 3 blank buttons (No text, no pictures)**
-**Here they act as spaces and line breaks.**
-**Depending on the number of buttons and the type of buttons, the number of empty buttons may vary.**
+Rect button: ```rect_button<§t§rbutton name>```  
+Header buttons: ```header_button<button name>```  
+**REQUIRED: 3 blank buttons (No text, no pictures)**  
+**Here they act as spaces and line breaks.**  
+**Depending on the number of buttons and the type of buttons, the number of empty buttons may vary.**  
 Button one: ```grid_tile<button name>```  
 Button two: ```grid_tile<button name>```  
 
