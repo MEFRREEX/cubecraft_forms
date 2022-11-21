@@ -4,3 +4,5 @@
 
 Title: 
 ```is_dynamic&side_text<title>```
+Buttons:
+```grid_tile<button name>```
