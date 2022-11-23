@@ -33,15 +33,21 @@ Header buttons: ```header_button<§s§r[button name]>```
 (In this form, the sequence of buttons matters)
 Title ```is_dynamic&big_button&stack_text<title text>```  
 Big button: ```big_button<button name>```  
-Rect button: ```rect_button<§t§rbutton name>```
+Rect button: ```rect_button<§t§rbutton name>```  
 Header buttons: ```header_button<§s§r[button name]>```  
 **REQUIRED: 3 blank buttons (No text, no pictures)**
 **Here they act as spaces and line breaks.**
 **Depending on the number of buttons and the type of buttons, the number of empty buttons may vary.**
 Button one: ```grid_tile<button name>```  
-Button two: ```grid_tile<button name>```  
+Button two: ```grid_tile<button name>```
 
-  
+#
+![image](https://user-images.githubusercontent.com/83061703/203530436-fcd43bab-1938-461b-aed9-931b82f528bf.png)
+Title ```is_dynamic&small_grid&stack_text<title text>```  
+Buttons: ```grid_tile<button name>```  
+Rect button: ```rect_button<§t§rbutton name>```  
+Header buttons: ```header_button<§s§r[button name]>```
+
 # Additional parameters for buttons
 ```§s§r``` - the text will be displayed only when hovering over the button  
 ```§t§r``` - will make the rectangular button larger  
