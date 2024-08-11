@@ -1,5 +1,14 @@
 # Forms
 
+# TAKE NOTE
+> [!important]
+> In the form itself, values are written without triangular and square brackets; they are there only to indicate that there should be text here, and to separate it from the other for clarity.   
+>
+> **If you are using: `is_dynamic&side_text<текст заголовка>`, you should write it down like this: `is_dynamic&side_textТекст заголовка`**
+
+# CubeCraft Navigator
+![CubeCraft Navigator](../images/cubecraft_navigator.png)
+
 # CubeCraft Navigator
 ![CubeCraft Navigator](../images/cubecraft_navigator.png)
 
