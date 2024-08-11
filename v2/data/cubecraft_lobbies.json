@@ -1,0 +1,224 @@
+{
+    "buttons": [
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 1§r§a 31/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 2§r§a 4/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 3§r§a 33/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 4§r§a 27/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 5§r§a 9/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 6§r§a 29/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 7§r§a 33/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 8§r§a 31/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 9§r§a 33/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tile§r§dLobby 10§r§a 27/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 11§r§a 40/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 12§r§a 31/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 13§r§a 2/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 14§r§a 7/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 15§r§a 31/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 16§r§a 33/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 17§r§a 32/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 18§r§a 32/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 19§r§a 31/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 21§r§a 3/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 22§r§a 30/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 23§r§a 32/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 24§r§a 5/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 25§r§a 32/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 26§r§a 9/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 27§r§a 30/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 28§r§a 31/60"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/f8j3ZyswPmY-6-_gUiNTPjgfhf3uS0nAnTFnefp1SxpBAz6kGaSTpWSAf4FVsL-h4OaV9jHiSaQz2mfCzIzG0A==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby 31§r§a 14/60"
+        },
+        {
+            "image": {
+                "data": "textures/ui/icon_region_eu",
+                "type": "path"
+            },
+            "text": "header_button§r§e§lEurope Region§r\n§r§9§lPlayers in lobbies:§r§f§l 682"
+        },
+        {
+            "image": {
+                "data": "textures/ui/icon_region_na",
+                "type": "path"
+            },
+            "text": "header_button§r§e§lNorth America Region§r\n§r§9§lPlayers in lobbies:§r§f§l 550"
+        },
+        {
+            "image": {
+                "data": "textures/ui/icon_region_as",
+                "type": "path"
+            },
+            "text": "header_button§r§e§lAsia Region§r\n§r§9§lPlayers in lobbies:§r§f§l 185"
+        }
+    ],
+    "content": "§r§dYou're currently on lobby 10.§r\n\n§r§fYou can change lobby to join your friends!",
+    "title": "is_dynamic&side_textLobbies - EU",
+    "type": "form"
+}

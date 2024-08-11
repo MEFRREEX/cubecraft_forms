@@ -1,0 +1,51 @@
+{
+    "buttons": [
+        {
+            "image": {
+                "data": "textures/ui/button_renders/render_loot_full",
+                "type": "path"
+            },
+            "text": "big_buttonLoot"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/Ngwl0sednZ9X6tUeVYmCJnKR3sh2_Q6pWfoR8foGkx3E7qGssefQrDUiu9T-O7j_eSFbw9A3RloLj4lFwubnmA==.png",
+                "type": "url"
+            },
+            "text": "§t§rbig_button§g§rWeapons Gravestone Pack"
+        },
+        {
+            "image": {
+                "data": "textures/ui/icon_crown",
+                "type": "path"
+            },
+            "text": "header_buttonVIP Levels"
+        },
+        {
+            "text": ""
+        },
+        {
+            "text": ""
+        },
+        {
+            "text": ""
+        },
+        {
+            "image": {
+                "data": "textures/ui/button_icons/icon_content_packs",
+                "type": "path"
+            },
+            "text": "grid_tileContent Packs"
+        },
+        {
+            "image": {
+                "data": "textures/ui/button_icons/icon_gifting",
+                "type": "path"
+            },
+            "text": "grid_tileGifts"
+        }
+    ],
+    "content": "",
+    "title": "is_dynamic&big_button&stack_textLoot",
+    "type": "form"
+}

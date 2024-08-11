@@ -1,0 +1,82 @@
+{
+    "buttons": [
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/CvxuZ5enRbJa9iQArwp2oED_IQIHRmNI6THsvvq-q8mCHACkgjU8ZyNkeNRDaQMxzpWvEPN8EgsF3zhknP4xUw==.png",
+                "type": "url"
+            },
+            "text": "§s§rgrid_tile§g§r§r§e§lTreasure Chest§r\n§r§7Egg Skins§r\n§r§9Press to purchase!"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/aTW1ZefaSn8IkBCFSDMGkS5B9p_xuB0SmZCIPBCr_Ixe5ZDTNtlcBo0wddu_FsH7UaqREFYBGKlBxeOOO0D90A==.png",
+                "type": "url"
+            },
+            "text": "§s§rgrid_tile§g§r§r§e§lToilet§r\n§r§7Generator Skins§r\n§r§9Press to purchase!"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/acNEofUYH9iLwMOrxhQ0eTZxY65PjMvTewhRtky6XwI5JWfATzpxSjjjDgHpXL5D8AP2VWthc3cjb0rt6uSzJg==.png",
+                "type": "url"
+            },
+            "text": "§s§rgrid_tile§g§r§r§e§lMonster§r\n§r§7Chest Skins§r\n§r§9Press to purchase!"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/j6_LfkXKA0R2i0gBYVQxh7P125LLoaXECvVVEi_Jh_RpAO6MAw9-NbAW6Iw0Hmx9ynrTXqwZr4ifRJN5KvXQvA==.png",
+                "type": "url"
+            },
+            "text": "§s§rgrid_tile§g§r§r§e§lHospital§r\n§r§7Gravestones§r\n§r§9Press to purchase!"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/fwXNy-EfANDf1yUAOU3k5GNDeT_mBVfMOV1-_yllywhBwAj30n_dnIvwwrzi_4_msQHU1242FWt22_JycONQJw==.png",
+                "type": "url"
+            },
+            "text": "§s§rgrid_tile§g§r§r§e§lTrophies§r\n§r§7Trail§r\n§r§9Press to purchase!"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/st1D_0ZE9-qHDE0Uhzra9q3n92IDDEU9crOxiU6QhQFpErCuLdrlIj2SMV1SscOkyYr_yk8xGrmnpfGxVce_Qw==.png",
+                "type": "url"
+            },
+            "text": "§s§rgrid_tile§g§r§r§e§lTrapped In Jar§r\n§r§7Cage§r\n§r§9Press to purchase!"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/5gnU2ZkFdU_YKkKtuHTPES86IpzEO1uqqJKW0rkvkSh621FLoFVUuzg4Y8mA8V6YWdAVti0SfW1gSBuz6qjFNw==.png",
+                "type": "url"
+            },
+            "text": "§s§rgrid_tile§g§r§r§e§lAntique§r\n§r§7Lucky Block Skins§r\n§r§9Press to purchase!"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/-n_L9KBH1_QJ9LvUsEuCeYPDjqKXnteeIdgThGC0hRvIVfjnoQv4TW8e8BGOdtBAbaLkPTx4WOGaCMXHB4_zrA==.png",
+                "type": "url"
+            },
+            "text": "§s§rgrid_tile§g§r§r§e§lLove§r\n§r§7Kill Effects§r\n§r§9Press to purchase!"
+        },
+        {
+            "text": "just_text_button §r§6§l Featured Loot"
+        },
+        {
+            "text": "just_text_button \n §r§9 Game Loot \u0013"
+        },
+        {
+            "text": "just_text_button \n §r§9 Other Loot \u0013"
+        },
+        {
+            "text": "just_text_button \n §r§9 Loot by Type \u0013"
+        },
+        {
+            "image": {
+                "data": "textures/ui/icon_back",
+                "type": "path"
+            },
+            "text": "header_button§r§9Back"
+        }
+    ],
+    "content": "",
+    "title": "is_dynamic&small_grid&stack_text&search_barLoot",
+    "type": "form"
+}

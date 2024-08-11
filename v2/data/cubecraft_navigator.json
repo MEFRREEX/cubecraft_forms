@@ -1,0 +1,91 @@
+{
+    "buttons": [
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/cassRrHlPw7OnpLMt59HIIHGedpHIGEjJUZBU29Z3jPJiMc247KWkiyTggvZrtn1-UUH2s4sL0oBw4nG90XpFg==.png",
+                "type": "url"
+            },
+            "text": "grid_tileBedWars"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/wn07FDQTemEnW387M2nrpou2VhSEWyVYDvOaTNBfztVp-iE-pOmDDm01CFUKGHwcBmYDVNFINxdqQeW72r42-w==.png",
+                "type": "url"
+            },
+            "text": "grid_tilePillars of Fortune"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/MLnrV7VYG5q9oVtI8XkKa8UrdOOxj5wOM3dLSNUu5p6gsZekyDoqTU-kBbxRKhpjQijyj-uca4VFj9RBcU-TFg==.png",
+                "type": "url"
+            },
+            "text": "grid_tileEggWars"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/kMByObiqP2Ec3nC6KBchcKHFqfl4BeVNFQ00DXbKsxUfHaXWHypCw3MUw5ejcfb48RDZFPdJ8y93gTEqW5GZfA==.png",
+                "type": "url"
+            },
+            "text": "grid_tileSkyWars"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/kRL3dN1BOLAMsy6idieJs1ynBzu5j-SqiuVaTYWIx4_61UqOKlwx3u_My-NzmV_RIGj7OwK98CDUK_5JGrmDOw==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLucky Blocks"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/T_h57gcBoDVF2o1ZhOHhOIssHBcp7vMq3pAHkSjvfHOKGUa7_i2Z6anGlynbuwlFWOYt_gHcs2NJU0CKx4mnPA==.png",
+                "type": "url"
+            },
+            "text": "grid_tileBattle Arena"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/cfSiKodLdL0dqb8Tme9FVLSL5U0eDjXQGkj-C4ON4-pdd38Z8Xj0xxbKkHNm2egn_KvIsNukX7XASTElk5nw5g==.png",
+                "type": "url"
+            },
+            "text": "grid_tileBlockWars"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/ZUe9rnoTRqEwbEbUzIYLvzjosllnxRZqrfwHqo910Y-qPyKtgfPyjbT59_KegUiPJgTnPh_psZWhljHKPPfMpg==.png",
+                "type": "url"
+            },
+            "text": "grid_tileSkyblock"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/1pm5vvDyB0jyt3Apc7oGJ2C-mOkWcwe_4T11f22_RitT4tikXusg6AOg43A38HkjVfLKbSuiFHOufI0hc8tBKw==.png",
+                "type": "url"
+            },
+            "text": "grid_tileMinerWare"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/oQaWxQiH3LWLlUZVgpED0Yq6MXVLKg6cRk1XvM4JnGjimvYrNuztULiLFEbotE1nvHngO08Xb8ISpJuLHLlGbA==.png",
+                "type": "url"
+            },
+            "text": "grid_tileParkour"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/HObMxaUVYMsF0wOJyUc7JfLhrtlpdi8psQLhbco38NJsHvqZ6HQtL3xY-OaTRjyT7fdvZmfLUCRbRS908OIvwA==.png",
+                "type": "url"
+            },
+            "text": "grid_tileSurvival Games"
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/YVew5twTalIdSGPzkQYmrXtrRYbCwh1enI81ffEShsFoWJwKwEnUBKHgixjZTJKZDoguKj-rFNwZh9WiQyDw_g==.png",
+                "type": "url"
+            },
+            "text": "grid_tileLobby"
+        }
+    ],
+    "content": "",
+    "title": "is_dynamic&side_textCubeCraft Navigator",
+    "type": "form"
+}

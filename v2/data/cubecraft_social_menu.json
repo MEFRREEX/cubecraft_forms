@@ -1,0 +1,51 @@
+{
+    "buttons": [
+        {
+            "image": {
+                "data": "textures/ui/button_renders/render_friends",
+                "type": "path"
+            },
+            "text": "big_buttonFriends"
+        },
+        {
+            "image": {
+                "data": "textures/ui/button_renders/render_parties",
+                "type": "path"
+            },
+            "text": "§t§rbig_buttonParties"
+        },
+        {
+            "image": {
+                "data": "textures/ui/icon_crown",
+                "type": "path"
+            },
+            "text": "header_buttonVIP Levels"
+        },
+        {
+            "text": ""
+        },
+        {
+            "text": ""
+        },
+        {
+            "text": ""
+        },
+        {
+            "image": {
+                "data": "https://assets.cubecraftcdn.com/renders/cubecraft/iWVqcFehOifOYUdFZ_U69r2sEX4quURQpGkwBla8wS4HbnGuuH_VLky14xAJG4gx-ajnlm7uGSZHKsAEScFYJQ==.png",
+                "type": "url"
+            },
+            "text": "grid_tileProfile"
+        },
+        {
+            "image": {
+                "data": "textures/ui/button_renders/render_ignored",
+                "type": "path"
+            },
+            "text": "grid_tileIgnored"
+        }
+    ],
+    "content": "",
+    "title": "is_dynamic&big_button&stack_textSocial menu",
+    "type": "form"
+}
