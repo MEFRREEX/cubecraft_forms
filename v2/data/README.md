@@ -1,1 +1,1 @@
-Thanks @fdutch for exporting the form data
+Thanks [@fdutch](https://github.com/fdutch) for exporting the form data
