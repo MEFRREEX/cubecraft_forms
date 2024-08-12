@@ -78,6 +78,18 @@ Header buttons: `header_button<button name>`
 [Form Json Data](../data/cubecraft_vip_levels.json)
 
 
+# Additional parameters for small_grid forms:
+- `search_bar` - Added a search box
+- `big_button` - Кнопки будут увеличены
+- `grid_text` - Content will be positioned above the grid of buttons
+- `stack_text` - Content will be positioned above the rectangular buttons
+- `side_text` - Content will be positioned above the rectangular buttons (minimized)   
+
+Как использовать: `is_dynamic&small_grid[parameters]<title text>` (title)   
+
+(All parameters can be combined and are specified with `&`)
+
+
 # Additional parameters for buttons
 `§s§r` - The text will be displayed only when the cursor is over the button    
 `§t§r` - Makes a rectangular button larger    
