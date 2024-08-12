@@ -92,7 +92,7 @@ Header buttons: `header_button<button name>`
 
 # Additional parameters for buttons
 `§s§r` - The text will be displayed only when the cursor is over the button    
-`§t§r` - Makes a rectangular button larger    
+`§t§r` - Makes a big button rectangular    
 `§w§r` - Button will change color to white   
 `§g§r` - Button will change color to gold 
 How to use: `button_parameter<additional_parameter[text]>`
