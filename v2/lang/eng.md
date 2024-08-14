@@ -96,3 +96,7 @@ Header buttons: `header_button<button name>`
 `§w§r` - Button will change color to white   
 `§g§r` - Button will change color to gold 
 How to use: `button_parameter<additional_parameter[text]>`
+
+
+#
+English, [Русский](./rus.md)

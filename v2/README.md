@@ -7,4 +7,4 @@ More up-to-date documentation is currently being hired
 > [Json Data of forms](./data/)
 
 ## Select a language:
-[English](./lang/eng.md), [Russian](./lang/rus.md)
+[English](./lang/eng.md), [Русский](./lang/rus.md)

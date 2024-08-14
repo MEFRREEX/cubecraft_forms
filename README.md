@@ -5,3 +5,8 @@ This documentation provides information on how to use CubeCraft forms. The docum
 # Select a version
 [Version 1](./v1) (Has outdated information)   
 [Version 2](./v2) (Most up-to-date documentation at the moment)
+
+### ⭐ Give this repository a star if it has helped you!
+
+#
+> English, [Русский](./README_RU.md)

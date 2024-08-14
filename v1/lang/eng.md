@@ -57,3 +57,7 @@ How to use: ```button_parameter<add_parameter[text]>```
 
 # Additional information
 You can use these examples to create your own custom forms as a constructor
+
+
+#
+> English, [Русский](./rus.md)
