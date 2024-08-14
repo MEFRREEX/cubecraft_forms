@@ -9,4 +9,4 @@ This documentation provides information on how to use CubeCraft forms. The docum
 ### ⭐ Give this repository a star if it has helped you!
 
 #
-> English, [Русский](./README_RU.md)
+English, [Русский](./README_RU.md)
