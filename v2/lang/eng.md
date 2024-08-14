@@ -80,7 +80,7 @@ Header buttons: `header_button<button name>`
 
 # Additional parameters for small_grid forms:
 - `search_bar` - Added a search box
-- `big_button` - Кнопки будут увеличены
+- `big_button` - Buttons will be larger
 - `grid_text` - Content will be positioned above the grid of buttons
 - `stack_text` - Content will be positioned above the rectangular buttons
 - `side_text` - Content will be positioned above the rectangular buttons (minimized)   
